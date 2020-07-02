@@ -4,6 +4,6 @@
 
    * Linux:
   
-      Flappy Bird.
+      Tiny Flappy Bird in Terminal.
      
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
