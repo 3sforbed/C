@@ -4,6 +4,6 @@
 
    * Linux:
   
-      Flatty Bird.
+      Flappy Bird.
      
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
