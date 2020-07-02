@@ -2,8 +2,8 @@
 
 ## C project：
 
-  * Linux:
+   * Linux:
   
-     Flatty Bird.
+      Flatty Bird.
      
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
