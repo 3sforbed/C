@@ -1,8 +1,8 @@
-#Everything in C (随缘更新)
+# Everything in C (随缘更新)
 
-##C project：
+## C project：
 
-  *Linux:
+  * Linux:
   
      Flatty Bird.
      
