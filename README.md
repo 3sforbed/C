@@ -2,10 +2,16 @@
 
 ##  Project：
 
-   * Linux:
+* Linux:
   
-      Tiny Flappy Bird in Terminal.
+  Tiny Flappy Bird in Terminal.
      
-## References
-     
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+## References：
+
+* Tutorial：
+
+* Book：
+
+* Other：
+
+  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
