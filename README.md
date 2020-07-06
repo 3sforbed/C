@@ -4,7 +4,7 @@
 
 * Linux:
   
-  Flappy Bird in Terminal.
+  [Flappy Bird in Terminal.](https://github.com/3sforbed/C/tree/master/CProject/Linux/Ubuntu18.04/FlappyBirdinTerminal)
      
 ## References：
 
