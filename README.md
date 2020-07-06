@@ -18,8 +18,6 @@
   
   [C11 2011](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
   
-  [Gcc](https://gcc.gnu.org/)
-  
   [The GNU C Library](http://www.gnu.org/software/libc/)
   
   [µClibc](https://uclibc.org/)
@@ -27,6 +25,8 @@
 * Other：
 
   [Open Standard](http://www.open-std.org/)
+    
+  [Gcc](https://gcc.gnu.org/)
 
   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
