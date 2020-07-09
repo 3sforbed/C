@@ -47,3 +47,11 @@
   [Docker Doc](https://docs.docker.com/)
   
   [Vim 基础入门 ](https://www.shiyanlou.com/courses/2)
+  
+  [Linux 基础入门](https://www.shiyanlou.com/courses/1)
+  
+  [Linux 多线程编程基础入门 ](https://www.shiyanlou.com/courses/731)
+  
+  [C 语言实现常见数据结构](https://www.shiyanlou.com/courses/1660)
+  
+  [GDB 简明教程](https://www.shiyanlou.com/courses/496)
