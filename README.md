@@ -23,6 +23,8 @@
   [The GNU C Library](http://www.gnu.org/software/libc/)
   
   [µClibc](https://uclibc.org/)
+  
+  [C 语言简明教程](https://www.shiyanlou.com/courses/57)
 
 * Other：
 
@@ -43,3 +45,5 @@
   [泰晓科技](http://tinylab.org/)
   
   [Docker Doc](https://docs.docker.com/)
+  
+  [Vim 基础入门 ](https://www.shiyanlou.com/courses/2)
