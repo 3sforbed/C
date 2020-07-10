@@ -131,3 +131,7 @@
   [C 语言实现常见数据结构](https://www.shiyanlou.com/courses/1660)
   
   [GDB 简明教程](https://www.shiyanlou.com/courses/496)
+  
+  [Linux 中国](https://linux.cn/)
+  
+  [Linux Journal](https://www.linuxjournal.com/)
