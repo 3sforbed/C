@@ -135,3 +135,7 @@
   [Linux 中国](https://linux.cn/)
   
   [Linux Journal](https://www.linuxjournal.com/)
+  
+  [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/index.html)
+  
+  [Kernel.org git repositories](https://git.kernel.org/)
