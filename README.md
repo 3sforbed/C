@@ -26,6 +26,10 @@
   
   [C 语言简明教程](https://www.shiyanlou.com/courses/57)
   
+  [wiki ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
+  
+  [The Standard Function Library](https://imatix-legacy.github.io/sfl/)
+  
   《C语言接口与实现》
   
   《c陷阱与缺陷》
