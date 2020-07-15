@@ -143,3 +143,5 @@
   [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/index.html)
   
   [Kernel.org git repositories](https://git.kernel.org/)
+  
+  [高级 Bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
