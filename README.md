@@ -157,3 +157,5 @@
   [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
   
   [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+  
+  [鳥哥的首頁](https://linux.vbird.org/)
