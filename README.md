@@ -147,3 +147,5 @@
   [高级 Bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
   
   [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+  
+  [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
