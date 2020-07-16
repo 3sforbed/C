@@ -108,6 +108,10 @@
 
 * Other：
 
+  [GNU](http://www.gnu.org/)
+  
+  [GNU FTP](http://ftp.gnu.org/)
+
   [Open Standard](http://www.open-std.org/)
     
   [Gcc](https://gcc.gnu.org/)
