@@ -161,3 +161,5 @@
   [鳥哥的首頁](https://linux.vbird.org/)
   
   [wiki 计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
+  
+  [wiki Linux内核](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
