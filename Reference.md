@@ -76,3 +76,9 @@
   
   [Redis 简明教程](https://www.shiyanlou.com/courses/106)
   
+  [操作系统课程](https://www.shiyanlou.com/courses/2610)
+  
+  [Linux 实现多线程模型](https://www.shiyanlou.com/courses/592)
+  
+  [ C 语言实现多线程排序 ](https://www.shiyanlou.com/courses/603)
+  
