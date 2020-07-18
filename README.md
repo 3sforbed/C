@@ -1,5 +1,7 @@
 # Everything in C (随缘更新)
 
+## Tutorial
+
 ##  Project：
 
 * Linux:
@@ -9,8 +11,6 @@
   [Calculator in Terminal.](https://github.com/3sforbed/C/tree/master/CProject/Linux/Ubuntu18.04/CalculatorinTerminal)
      
 ## References：
-
-* Tutorial：
 
   [C 语言编程透视](https://tinylab.gitbooks.io/cbook/zh/preface/01-chapter1.html)
   
@@ -30,6 +30,62 @@
   
   [The Standard Function Library](https://imatix-legacy.github.io/sfl/)
   
+  [GNU](http://www.gnu.org/)
+  
+  [GNU FTP](http://ftp.gnu.org/)
+
+  [Open Standard](http://www.open-std.org/)
+    
+  [Gcc](https://gcc.gnu.org/)
+
+  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+  [Git Doc](https://git-scm.com/doc)
+
+  [Markdown 文档编辑环境](http://tinylab.org/markdown-lab/)
+  
+  [Shell 编程规范](https://tinylab.gitbooks.io/shellbook/zh/preface/01-chapter1.html)
+  
+  《Git 权威指南》
+  
+  [泰晓科技](http://tinylab.org/)
+  
+  [Docker Doc](https://docs.docker.com/)
+  
+  [Vim 基础入门 ](https://www.shiyanlou.com/courses/2)
+  
+  [Linux 基础入门](https://www.shiyanlou.com/courses/1)
+  
+  [Linux 多线程编程基础入门 ](https://www.shiyanlou.com/courses/731)
+  
+  [C 语言实现常见数据结构](https://www.shiyanlou.com/courses/1660)
+  
+  [GDB 简明教程](https://www.shiyanlou.com/courses/496)
+  
+  [Linux 中国](https://linux.cn/)
+  
+  [Linux Journal](https://www.linuxjournal.com/)
+  
+  [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/index.html)
+  
+  [Kernel.org git repositories](https://git.kernel.org/)
+  
+  [高级 Bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
+  
+  [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+  
+  [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+  
+  [鳥哥的首頁](https://linux.vbird.org/)
+  
+  [wiki 计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
+  
+  [wiki Linux内核](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
+  
+  [wiki Linux](https://zh.wikipedia.org/wiki/Linux)
+  
+## Book
+
   《C语言接口与实现》
   
   《c陷阱与缺陷》
@@ -109,59 +165,3 @@
   《计算机组成与设计硬件与接口》
   
   《计算机体系结构量化研究方法》
-
-* Other：
-
-  [GNU](http://www.gnu.org/)
-  
-  [GNU FTP](http://ftp.gnu.org/)
-
-  [Open Standard](http://www.open-std.org/)
-    
-  [Gcc](https://gcc.gnu.org/)
-
-  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-  [Git Doc](https://git-scm.com/doc)
-
-  [Markdown 文档编辑环境](http://tinylab.org/markdown-lab/)
-  
-  [Shell 编程规范](https://tinylab.gitbooks.io/shellbook/zh/preface/01-chapter1.html)
-  
-  《Git 权威指南》
-  
-  [泰晓科技](http://tinylab.org/)
-  
-  [Docker Doc](https://docs.docker.com/)
-  
-  [Vim 基础入门 ](https://www.shiyanlou.com/courses/2)
-  
-  [Linux 基础入门](https://www.shiyanlou.com/courses/1)
-  
-  [Linux 多线程编程基础入门 ](https://www.shiyanlou.com/courses/731)
-  
-  [C 语言实现常见数据结构](https://www.shiyanlou.com/courses/1660)
-  
-  [GDB 简明教程](https://www.shiyanlou.com/courses/496)
-  
-  [Linux 中国](https://linux.cn/)
-  
-  [Linux Journal](https://www.linuxjournal.com/)
-  
-  [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/index.html)
-  
-  [Kernel.org git repositories](https://git.kernel.org/)
-  
-  [高级 Bash 脚本编程指南](https://www.shiyanlou.com/courses/944)
-  
-  [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
-  
-  [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
-  
-  [鳥哥的首頁](https://linux.vbird.org/)
-  
-  [wiki 计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
-  
-  [wiki Linux内核](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
-  
-  [wiki Linux](https://zh.wikipedia.org/wiki/Linux)
