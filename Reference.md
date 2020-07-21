@@ -82,3 +82,7 @@
   
   [ C 语言实现多线程排序 ](https://www.shiyanlou.com/courses/603)
   
+  [Makefile 基础入门](https://www.shiyanlou.com/courses/849)
+  
+  [ 跟我一起来玩转 Makefile ](https://www.shiyanlou.com/courses/713)
+  
