@@ -88,3 +88,9 @@
   
   [ 正则表达式基础入门 ](https://www.shiyanlou.com/courses/90)
   
+  [sed 简明教程](https://coolshell.cn/articles/9104.html)
+  
+  [SED单行脚本快速参考（Unix 流编辑器）](http://sed.sourceforge.net/sed1line_zh-CN.html)
+  
+  [sed, a stream editor](http://www.gnu.org/software/sed/manual/sed.html)
+  
