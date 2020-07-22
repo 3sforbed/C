@@ -98,3 +98,11 @@
   
   [wiki Comparison of regular-expression engines](https://en.wikipedia.org/wiki/Comparison_of_regular-expression_engines)
   
+  [vim 大冒险](https://vim-adventures.com/)
+  
+  [The GNU Awk User’s Guide](http://www.gnu.org/software/gawk/manual/gawk.html)
+  
+  [AWK 简明教程](https://coolshell.cn/articles/9070.html)
+  
+  [AWK程序设计语言](https://awk.readthedocs.io/en/latest/chapter-one.html)
+  
