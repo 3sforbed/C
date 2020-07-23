@@ -106,3 +106,5 @@
   
   [AWK程序设计语言](https://awk.readthedocs.io/en/latest/chapter-one.html)
   
+  [RSyslog Documentation](https://www.rsyslog.com/doc/master/index.html)
+  
