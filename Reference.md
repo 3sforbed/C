@@ -74,6 +74,8 @@
   
   [MySQL 数据库进阶实战](https://www.shiyanlou.com/courses/2404)
   
+  [Mysql Doc](https://dev.mysql.com/doc/)
+  
   [Redis 简明教程](https://www.shiyanlou.com/courses/106)
   
   [操作系统课程](https://www.shiyanlou.com/courses/2610)
