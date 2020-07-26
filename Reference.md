@@ -78,6 +78,8 @@
   
   [Redis 简明教程](https://www.shiyanlou.com/courses/106)
   
+  [Redis Documentation](https://redis.io/documentation)
+  
   [操作系统课程](https://www.shiyanlou.com/courses/2610)
   
   [Linux 实现多线程模型](https://www.shiyanlou.com/courses/592)
