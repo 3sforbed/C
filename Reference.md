@@ -115,3 +115,9 @@
   [TCP/IP 网络协议基础入门](https://www.shiyanlou.com/courses/98)
   
   [GNU make](http://www.gnu.org/software/make/manual/make.html)
+  
+  [BCC](https://github.com/iovisor/bcc)
+  
+  [操作系统（哈工大李治军老师）](https://www.bilibili.com/video/av51437944)
+  
+  [Linux 内核之旅](http://kerneltravel.net/)
