@@ -121,3 +121,7 @@
   [操作系统（哈工大李治军老师）](https://www.bilibili.com/video/av51437944)
   
   [Linux 内核之旅](http://kerneltravel.net/)
+  
+  [Linux内核分析与应用](https://www.bilibili.com/video/BV1qC4y1a7W5?from=search&seid=16035685986795650963)
+  
+  
