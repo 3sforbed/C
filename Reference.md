@@ -34,8 +34,6 @@
   
   [Shell 编程规范](https://tinylab.gitbooks.io/shellbook/zh/preface/01-chapter1.html)
   
-  [白问网（Linux嵌入式 韦东山视频）](https://www.100ask.net/index)
-  
   [泰晓科技](http://tinylab.org/)
   
   [Docker Doc](https://docs.docker.com/)
@@ -127,5 +125,7 @@
   [Linux 内核之旅](http://kerneltravel.net/)
   
   [Linux内核分析与应用](https://www.bilibili.com/video/BV1qC4y1a7W5?from=search&seid=16035685986795650963)
+  
+  [百问网（Linux嵌入式）](https://www.100ask.net/index)
   
   
