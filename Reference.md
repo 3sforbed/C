@@ -34,6 +34,8 @@
   
   [Shell 编程规范](https://tinylab.gitbooks.io/shellbook/zh/preface/01-chapter1.html)
   
+  [白问网（Linux嵌入式 韦东山视频）](https://www.100ask.net/index)
+  
   [泰晓科技](http://tinylab.org/)
   
   [Docker Doc](https://docs.docker.com/)
