@@ -10,6 +10,8 @@
   
   [Calculator in Terminal.](https://github.com/3sforbed/C/tree/master/CProject/Linux/Ubuntu18.04/CalculatorinTerminal)
   
+  [DataStruct](https://github.com/3sforbed/C/tree/master/CProject/Linux/Ubuntu18.04/DataStruct)
+  
 * Windows:
 
 * Other:
