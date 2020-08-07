@@ -28,6 +28,8 @@
   
   《Unix Network Programming》
   
+  《Unix环境高级编程》、《Linux高性能服务器编程》、《POSIX多线程程序设计》
+  
   《Programming Windows》
   
   《Windows 核心编程》
@@ -58,9 +60,7 @@
   
   《The Standard C Library》
   
-  《算法导论》
-  
-  《算法:C语言实现》
+  《算法导论》  《算法:C语言实现》  《大话数据结构》、《算法》、《剑指offer》
   
   《Unix编程艺术》  
   
@@ -72,9 +72,7 @@
   
   《数据库系统导论》 
   
-  《TCP/IP》  
-  
-  《HTTP详解》  
+  《TCP/IP详解》  《HTTP详解》  
   
   《计算机组成与设计硬件与接口》
   
@@ -82,11 +80,15 @@
   
   《Git 权威指南》
   
+  《debuging with gdb》
+  
   《Linux/UNIX系统编程手册》
   
   《专业嵌入式软件开发》
   
   《加密解密》
+  
+  《大话设计模式》、《设计模式之禅》
   
   《鸟哥的Linux私房菜》
   
